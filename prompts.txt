@@ -1,0 +1,55 @@
+Resimler için Promptlar:
+
+a European family of mom, dad and 2 kids are sitting around a table and eating their traditional food 
+
+an American kid is sitting on the sofa and is watching television in home.
+
+2 girls and 3 boys who are African and 8 years old are playing on a school's garden.
+
+A business woman wears a black dress and she is walking in a crowded street in a city.
+
+there is a blonde woman who wears a white wedding dress and a man wears a black tuxedo. They are getting married on a sunny day in a chapel.
+
+two men wear thick clothes and they are fishing on ice on a pound. It is snowing
+
+
+
+
+Websitesinde kullandığım Promptlar:
+
+Bir web ön geliştiricisi olarak davran. HTML ve CSS kullanarak bir galeri web sitesi tasarla. Web sitesinde bulunması gereken etiketler: header, main, nav, section, article, aside, footer.  Web sitesi mobil cihaz, bilgisayar ve tablet için uyumlu ve duyarlı olmalıdır. 
+
+Websitesinin ismi "Dünyadan Kesitler".  logo ve websitesinin ismini başlık kısmında sol tarafa koy. Ayrıca başlık kısmında websitesi içinde gezinme sağlayan dahili bağlantılar olsun.Bu bağlantılar başlık kısmının en sağında bulunsunlar. Başlık kısmında arkaplan siyah renkte, yazılar beyaz renkte olsun
+
+Sayfanın body kısmı galeri görümünde, bir ızgarada 3 adet 250x300 boyutunda 2 sıra olacak şekilde toplam 6 tane resim olsun. Resimin üzerine gelindiğinde bir geçiş efekti olsun ve resimin ismini görelim.  Her resimin üzerinde başlık olsun.
+
+resimlerin başlıklarını resimlerin alt kısımlarında tam ortada olacak şekilde aside etiketi ile yerleştir. Yazı stili kaligrafik  ayrıca yazıların boyutu  da 150x150 olsun.
+
+ızgaralar arasındaki boşluk 100 olsun
+
+Resim başlıklarını şu şekilde düzenle;
+yazı boyutu: 15px
+arka plan: şeffaf
+konum:resimlerin sol alt tarafında
+
+footer kısmını şu şekilde ayarla;
+yazılar sayfanın ortasında olsun.
+yazı boyutu 5 ve yazı stili helvetica , yazı rengi siyah olsun
+arka plan açık gri olsun
+ayrıca footer kısmının yükseliğini 10 yap
+
+logonun boyutunu 150x150 px yap. Ayrıca sitenin ismini "Alive by Ai" yap ve yazı boyutunu daha da küçült. Sitenin ismini logonun hemen sağ tarafına koy.
+
+sitenin ismi ve logo arasındaki boşluğu daha da küçültelim. Navigasyon bağlantıları oldukları yerde kalsınlar.
+
+Şimdi navigasyon kısmındaki yazıların boyutlarını daha da arttıralım. Daha sonra da footer kısmındaki yazının boyutunu küçültelim.
+
+main kısmında resimlerin hepsinden önce bu sitenin yapay zeka tarafından oluşturulmuş insanları gösterdiğini anlatan bir 50 kelimelik yazı yaz ve bu yazıyı siteye yerleştir. Yazının boyutu 20 ve yazı rengi siyah olsun. Son olrak yazıyı sayfaya ortala. Ayrıca yazı stili italik ve kalın  ve Times New Roman olmalı.
+
+
+
+
+
+
+
+

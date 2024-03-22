@@ -1,0 +1,131 @@
+/* Genel Stil */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe Script", cursive;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+/* Header Stili */
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px ; /* Başlık ve logo arasındaki boşluğu daha da küçült */
+    display: flex;
+    justify-content: flex-start; /* Burada değişiklik */
+    align-items: center;
+}
+
+/* Logo Stili */
+.logo {
+    float: left;
+    margin-right: 10px;
+}
+
+.logo img {
+    height: 150px; /* Logo boyutunu artır */
+    width: 150px;
+    margin-right: 10px; /* Logo ile site adı arasındaki boşluğu ayarla */
+}
+
+/* Başlık Stili */
+h1 {
+    margin: 0;
+    font-size: 18px; /* Yazı boyutunu küçült */
+}
+
+nav {
+    margin-left: auto; /* Navigasyon bağlantılarını sağa hizala */
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px; /* Yazı boyutunu arttır */
+}
+
+/* Main Stili */
+main {
+    padding: 20px;
+}
+
+.site-description {
+    text-align: center; /* Yazıyı sayfa ortasına hizala */
+    font-size: 20px; /* Yazı boyutu */
+    color: #000; /* Yazı rengi */
+    margin-bottom: 20px; /* Yazının altına boşluk bırak */
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Times New Roman", serif; /* Yazı stili */
+}
+
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 100px; /* ızgaralar arasındaki boşluk */
+}
+
+.gallery article {
+    position: relative;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.gallery article:hover img {
+    transform: scale(1.05);
+}
+
+.caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* şeffaf arka plan */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+}
+
+.caption h3 {
+    color: #fff;
+    font-size: 15px;
+    margin: 0;
+}
+
+/* Footer Stili */
+footer {
+    background-color: #ddd; /* açık gri arka plan */
+    color: #000; /* siyah yazı rengi */
+    text-align: center; /* yazılar sayfanın ortasında */
+    padding: 10px; /* padding ekle */
+    font-size: 12px; /* Yazı boyutunu küçült */
+    font-family: Helvetica, sans-serif; /* yazı stili */
+    height: 10vh; /* footer kısmının yüksekliği */
+}
+
+
+footer p {
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+}
