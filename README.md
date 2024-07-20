@@ -1,0 +1,1 @@
+Alive By Ai is a website created with the help of ChatGPT for the bootcamp "Generagive AI Camp" of Global Ai Hub. It is a online art gallery of the pictures also created by other generative ai models.
